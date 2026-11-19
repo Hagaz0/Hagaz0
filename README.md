@@ -8,4 +8,3 @@
 ---
 ### Contacts
 
-* [Telegram](https://t.me/Ates_Kusu)
